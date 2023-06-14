@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none !important;
+}
+.icon{
+    background-color: #be9c79;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+i{
+    color: #fff;
+}
+.copyright{
+    font-size: 1.5rem;
+}
+span{
+    color: #be9c79;
+}
